@@ -32,6 +32,10 @@ Figure 2 provides a view of the distribution of the price of classic cars older 
 
 
 
+
+
+
+
 ![bar_make_price_classic_cars2.png](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/images/bar_make_price_classic_cars2.png) 
 
 **Figure 3 - Price of classic cars by make**
@@ -42,7 +46,13 @@ Figure 3 - provides a view of the distribution of the price of classic cars by m
 
 
 
+
+
+
+
 ![bar_make_price_expensive_classic_cars3.png](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/images/bar_make_price_expensive_classic_cars3.png) 
+
+
 
 **Figure 4 - Classic cars whose value is more than $1M**
 
@@ -421,7 +431,15 @@ b) Cars older than ~50 years begin to go up in price; probably because they beco
 
 
 
+
+
+
+
 ![AIML-Portfolio-Car-Price/images/hist_age_price4.png at main · bhaswarey/AIML-Portfolio-Car-Price](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/images/hist_age_price4.png) 
+
+
+
+
 
 **Figure 4 - Price base on the age of the car**
 
@@ -437,7 +455,15 @@ c) Cars with low mileage (<~30K) have higher price mostly like because they are 
 
 
 
+
+
+
+
  ![AIML-Portfolio-Car-Price/images/scatter_odometer_price5.png at main · bhaswarey/AIML-Portfolio-Car-Price](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/images/scatter_odometer_price5.png) 
+
+
+
+
 
 **Figure 5 - Price based on the mileage of the car**
 
