@@ -104,31 +104,31 @@ This data comes from kaggle and was modified to contain information on 426K cars
 
 Here is a sample of the data, which provides following features of the cars:
 
-·    Price of the car
+​		`·    	Price of the car`
 
-·    Make
+​		`·    	Make`
 
-·    Condition
+​		`·    	Condition`
 
-·    Cylinders
+​		`·    	Cylinders`
 
-·    Fuel type
+​		`·    	Fuel type`
 
-·    Mileage
+​		`·    	Mileage`
 
-·    Title status
+​		`·    	Title status`
 
-·    Transmission
+​		`·    	Transmission`
 
-·    Drive type
+​		`·    	Drive type`
 
-·    Make
+​		`·    	Make`
 
-·    Body type
+​		`·    	Body type`
 
-·    Color
+​		`·    	Color`
 
-·    Year manufactured (age)
+​		`·    	Year manufactured (age)`
 
 
 
