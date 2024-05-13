@@ -654,7 +654,9 @@ The transformation of the categorical features will be executed as part of the "
 
  ![AIML-Portfolio-Car-Price/images/pipeline.png at main · bhaswarey/AIML-Portfolio-Car-Price](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/images/pipeline.png) 
 
-During the evaluation of the models, the GridSearchCV with CV defaulted to 5 will be executed outside of a pipeline, to determine the optimal 'alpha' for Redge and Lasso models. The LinearRegression will also be executed outside of the pipeline.
+During the evaluation of the models, the GridSearchCV with CV defaulted to 5 will be executed outside of a pipeline (since we are not setting up the best model to make predictions), to determine the optimal 'alpha' for Redge and Lasso models. The LinearRegression will also be executed outside of the pipeline.
+
+NOTE: If the objective was to make prediction, then a pipeline would have been defined.
 
 ### 5.1.4   Model Assessment 
 
