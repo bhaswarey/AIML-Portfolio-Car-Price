@@ -677,7 +677,7 @@ y_train shape = (260831,)
 
 **Figure 15 - Optimal 'degree'**
 
-Figure 15 provides the performance of the Linear Regression model in terms of MSE/RMSE as the polynomial 'degree' varies. And the best 'degree' polynomial is 7.
+Figure 15 provides the performance of the Linear Regression model in terms of MSE/RMSE as the polynomial 'degree' varies. As shown in the figure, the best 'degree' polynomial is 7.
 
 
 
