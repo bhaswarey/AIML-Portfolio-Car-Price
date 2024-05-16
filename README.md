@@ -1,6 +1,6 @@
 # Case Study : What drives the price of a car?
 
-[Link to notebook:]  AIML-Portfolio-Car-Price/prompt_II.ipynb at main · bhaswarey/AIML-Portfolio-Likelihood-Accepting-Coupon](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/prompt_II.ipynb) 
+[Link to notebook:]  AIML-Portfolio-Car-Price/prompt_II.ipynb at main · bhaswarey/AIML-Portfolio-Car-Price](https://github.com/bhaswarey/AIML-Portfolio-Car-Price/blob/main/prompt_II.ipynb) 
 
 
 
